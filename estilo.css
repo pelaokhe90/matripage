@@ -9,25 +9,25 @@ body{
 
 @font-face{
 
-  font-family:letra1 ;
-  src:url(LoveSunday.ttf);
+  font-family:titulos ;
+  src:url(titulos.otf);
 }
 
 h1{
-  font-family:Letra1;
-  font-size: 300% ;
+  font-family:titulos;
+  font-size: 400% ;
 
 }
 
 @font-face{
 
-  font-family:letra2 ;
-  src:url(FIL.ttf);
+  font-family:parrafos ;
+  src:url(parrafos.otf);
 }
 
 h2{
-  font-family:Letra2;
-  font-size: 175% ;
+  font-family:parrafos;
+  font-size: 200% ;
 
 }
 
